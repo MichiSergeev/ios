@@ -7,12 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		05C0B402225134E300399EA6 /* KidnapperNote.m in Sources */ = {isa = PBXBuildFile; fileRef = E38F8DBA224A3EF0009EF306 /* KidnapperNote.m */; };
 		E38F8D97224A3CDE009EF306 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = E38F8D96224A3CDE009EF306 /* AppDelegate.m */; };
 		E38F8D9A224A3CDE009EF306 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E38F8D99224A3CDE009EF306 /* ViewController.m */; };
 		E38F8D9F224A3CE0009EF306 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E38F8D9E224A3CE0009EF306 /* Assets.xcassets */; };
 		E38F8DA2224A3CE0009EF306 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E38F8DA0224A3CE0009EF306 /* LaunchScreen.storyboard */; };
 		E38F8DA5224A3CE0009EF306 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = E38F8DA4224A3CE0009EF306 /* main.m */; };
-		E38F8DBB224A3EF0009EF306 /* KidnapperNote.m in Sources */ = {isa = PBXBuildFile; fileRef = E38F8DBA224A3EF0009EF306 /* KidnapperNote.m */; };
 		E38F8DC0224A41A4009EF306 /* KidnapperNoteTests.m in Sources */ = {isa = PBXBuildFile; fileRef = E38F8DBF224A41A4009EF306 /* KidnapperNoteTests.m */; };
 		E38F8DC9224A4825009EF306 /* RomanTranslator.m in Sources */ = {isa = PBXBuildFile; fileRef = E38F8DC8224A4825009EF306 /* RomanTranslator.m */; };
 		E38F8DCA224A4825009EF306 /* RomanTranslator.m in Sources */ = {isa = PBXBuildFile; fileRef = E38F8DC8224A4825009EF306 /* RomanTranslator.m */; };
@@ -293,7 +293,6 @@
 				E38F8DDA224BA508009EF306 /* MatrixHacker.m in Sources */,
 				E38F8DE1224D0B8F009EF306 /* TinyURL.m in Sources */,
 				E38F8DA5224A3CE0009EF306 /* main.m in Sources */,
-				E38F8DBB224A3EF0009EF306 /* KidnapperNote.m in Sources */,
 				E38F8D97224A3CDE009EF306 /* AppDelegate.m in Sources */,
 				E38F8DC9224A4825009EF306 /* RomanTranslator.m in Sources */,
 			);
@@ -305,6 +304,7 @@
 			files = (
 				E38F8DC0224A41A4009EF306 /* KidnapperNoteTests.m in Sources */,
 				E38F8DD7224B8A77009EF306 /* DoomsdayMachine.m in Sources */,
+				05C0B402225134E300399EA6 /* KidnapperNote.m in Sources */,
 				E38F8DCF224A7EE2009EF306 /* RomanTranslatorTests.m in Sources */,
 				E38F8DE2224D0B8F009EF306 /* TinyURL.m in Sources */,
 				E38F8DD6224A8B08009EF306 /* DoomsdayMachineTests.m in Sources */,
