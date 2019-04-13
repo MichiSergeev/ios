@@ -13,7 +13,7 @@
     
     for (int i=0; i<noteArray.count; i+=1) {
         for (int j=0; j<magaineArray.count; j+=1) {
-            if (noteArray[i]==magaineArray[j]) {
+            if ([noteArray[i] isEqualToString:magaineArray[j]]) {
                 hit+=1;
                 [magaineArray removeObjectAtIndex:j];
                 break;
